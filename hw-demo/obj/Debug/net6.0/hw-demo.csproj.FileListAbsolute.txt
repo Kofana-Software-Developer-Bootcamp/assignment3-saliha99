@@ -1,0 +1,15 @@
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\bin\Debug\net6.0\hw-demo.exe
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\bin\Debug\net6.0\hw-demo.deps.json
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\bin\Debug\net6.0\hw-demo.runtimeconfig.json
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\bin\Debug\net6.0\hw-demo.dll
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\bin\Debug\net6.0\hw-demo.pdb
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.csproj.AssemblyReference.cache
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.AssemblyInfoInputs.cache
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.AssemblyInfo.cs
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.csproj.CoreCompileInputs.cache
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.dll
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\refint\hw-demo.dll
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.pdb
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\hw-demo.genruntimeconfig.cache
+C:\Users\Saliha\source\repos\hw-demo\hw-demo\obj\Debug\net6.0\ref\hw-demo.dll
